@@ -13,5 +13,10 @@
 <h1>Welcome tO My First Git Project</h1>
 <h1>Welcome tO My First Git Project</h1>
 <h1>Welcome tO My First Git Project</h1>
+
+.<form action="process.jsp">
+<p>Enter Number1<input type="text" name="a" /></p>
+<p>Enter Number2<input type="text" name="b" /></p>
+<p><input type="submit" value="/" /></p>
 </body>
 </html>
